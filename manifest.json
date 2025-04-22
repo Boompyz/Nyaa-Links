@@ -12,7 +12,8 @@
         {
           "js": ["scripts/links.js"],
           "matches": [
-            "https://nyaa.si/*"
+            "https://nyaa.si/*",
+            "https://sukebei.nyaa.si/*"
           ]
         }
       ]
