@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Nyaa Links",
-    "version": "1.0",
+    "version": "1.01",
     "description": "Show a collection of all magnetic links from a nyaa.si page.",
     "icons": {
         "16": "images/icon-16.png",
